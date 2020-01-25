@@ -3,3 +3,5 @@
 
 Usage:
 Download the .htm file and open it in a modern browser.  Focus on the page and press keys.  The F1-F12 keys and other keys like backspace were omitted since many of them have browser functions.
+
+Or you can view it at https://dave-gu.github.io/3d-keyboard-nkro-test-babylonjs.htm
